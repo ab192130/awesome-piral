@@ -1,6 +1,6 @@
 # Awesome Piral [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of awesome [Vike](https://piral.io/) resources, libraries, tools, and boilerplates.
+> Curated list of awesome [Piral](https://piral.io/) resources, libraries, tools, and boilerplates.
 
 Pull requests welcome! 🙌
 
@@ -9,11 +9,12 @@ Pull requests welcome! 🙌
 ## Contents
 
 * [Official Resources](#official-resources)
-* [Community Projects](#community-projects)
 * [Boilerplates & Starters](#boilerplates--starters)
 * [Plugins & Integrations](#plugins--integrations)
 * [Articles & Tutorials](#articles--tutorials)
-* [Examples](#examples)
+* [Official Samples](#official-samples)
+* [Community Projects](#community-projects)
+* [Projects using Piral](#projects-using-piral)
 
 ---
 
@@ -42,11 +43,17 @@ Pull requests welcome! 🙌
 
 ---
 
+## Official Samples
+
+* [piral-cloud-native-federation](https://github.com/piral-samples/piral-cloud-native-federation-demo) - Demo for the Piral Cloud micro frontend discovery service using Native Federation. 
+
+---
+
 ## Community Projects
 
-> Open source projects built using Vike
+> Open source projects built using Piral
 
-* [Piral-Microfrontend-React-and-Vue](https://github.com/kanin-kearpimy/Piral-Microfrontend-React-and-Vue)
+* [Piral-Microfrontend-React-and-Vue](https://github.com/kanin-kearpimy/Piral-Microfrontend-React-and-Vue) - Example of running React and Vue microfrontends together
 
 ---
 
