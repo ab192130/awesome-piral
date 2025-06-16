@@ -49,7 +49,9 @@ Pull requests welcome! 🙌
 ## Official Samples
 
 * [piral-cloud-native-federation](https://github.com/piral-samples/piral-cloud-native-federation-demo) - Demo for the Piral Cloud micro frontend discovery service using Native Federation.
-* [sample-cross-fx-pilets](https://github.com/smapiot/sample-cross-fx-pilets) - Pilets for the cross framework sample of Piral. 📦 
+* [sample-cross-fx-pilets](https://github.com/smapiot/sample-cross-fx-pilets) - Pilets for the cross framework sample of Piral. 📦
+* [netflix-islands-demo](https://github.com/piral-samples/netflix-islands-demo) - A Netflix demo rendered with piral-server
+* [netflix-demo](https://github.com/piral-samples/netflix-demo) - A Netflix-like portal application with pilets 
 
 ---
 
