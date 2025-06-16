@@ -33,7 +33,7 @@ Pull requests welcome! 🙌
 
 ## Plugins & Integrations
 
-* *\[Integrations for databases, CMS, etc.]*
+* [Picard.js](https://picard.js.org/) - Enables integration of micro frontends independent of their technology or exposed functionality
 
 ---
 
