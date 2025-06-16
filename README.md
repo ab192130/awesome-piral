@@ -27,7 +27,10 @@ Pull requests welcome! 🙌
 
 ## Boilerplates & Starters
 
-* *\[Boilerplates, starters, etc.]*
+* [pilet-template-vue](https://github.com/smapiot/piral-templates/blob/develop/templates/pilet-template-vue) - Official Pilet template in Vue
+* [pilet-template-angular](https://github.com/smapiot/piral-templates/blob/develop/templates/pilet-template-angular) - Official Pilet template in Angular
+* [pilet-template-svelte](https://github.com/smapiot/piral-templates/blob/develop/templates/pilet-template-svelte) - Official Pilet template in Svelte
+* [pilet-template-solid](https://github.com/smapiot/piral-templates/blob/develop/templates/pilet-template-solid) - Official Pilet template in Solid
 
 ---
 
