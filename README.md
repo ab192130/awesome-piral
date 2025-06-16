@@ -45,7 +45,8 @@ Pull requests welcome! 🙌
 
 ## Official Samples
 
-* [piral-cloud-native-federation](https://github.com/piral-samples/piral-cloud-native-federation-demo) - Demo for the Piral Cloud micro frontend discovery service using Native Federation. 
+* [piral-cloud-native-federation](https://github.com/piral-samples/piral-cloud-native-federation-demo) - Demo for the Piral Cloud micro frontend discovery service using Native Federation.
+* [sample-cross-fx-pilets](https://github.com/smapiot/sample-cross-fx-pilets) - Pilets for the cross framework sample of Piral. 📦 
 
 ---
 
@@ -54,6 +55,7 @@ Pull requests welcome! 🙌
 > Open source projects built using Piral
 
 * [Piral-Microfrontend-React-and-Vue](https://github.com/kanin-kearpimy/Piral-Microfrontend-React-and-Vue) - Example of running React and Vue microfrontends together
+* [piral-experiments](https://github.com/tsukhu/piral-experiments) - Piral.io experiments 
 
 ---
 
